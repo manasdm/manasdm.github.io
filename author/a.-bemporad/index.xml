@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bemporad | Manas Mejari</title>
+    <link>https://manasdm.github.io/author/a.-bemporad/</link>
+      <atom:link href="https://manasdm.github.io/author/a.-bemporad/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Bemporad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Bemporad</title>
+      <link>https://manasdm.github.io/author/a.-bemporad/</link>
+    </image>
+    
+    <item>
+      <title>Identification of hybrid and linear parameter‐varying models via piecewise affine regression using mixed integer programming</title>
+      <link>https://manasdm.github.io/publication/j3-ijrnc20/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j3-ijrnc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelized Identification of Linear Parameter-Varying Models with Linear Fractional Representation</title>
+      <link>https://manasdm.github.io/publication/c8-ecc19/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c8-ecc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Disaggregation using Piecewise Affine Regression and Binary Quadratic Programming</title>
+      <link>https://manasdm.github.io/publication/c5-cdc18/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c5-cdc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized Moving-Horizon PWA Regression for LPV System Identification</title>
+      <link>https://manasdm.github.io/publication/c4-sysid18/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c4-sysid18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bias-correction method for closed-loop identification of Linear Parameter-Varying systems</title>
+      <link>https://manasdm.github.io/publication/j2-aut18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j2-aut18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPV Model Order Selection from Noise-corrupted Output and Scheduling Signal Measurements</title>
+      <link>https://manasdm.github.io/publication/c3-ifac17/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c3-ifac17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized moving-horizon piecewise affine regression using mixed-integer quadratic programming</title>
+      <link>https://manasdm.github.io/publication/c2-med17/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c2-med17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized least square support vector machines for order and structure selection of LPV-ARX models</title>
+      <link>https://manasdm.github.io/publication/c1-ecc16/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c1-ecc16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

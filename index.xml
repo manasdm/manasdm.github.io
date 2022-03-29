@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manas Mejari</title>
+    <link>https://manasdm.github.io/</link>
+      <atom:link href="https://manasdm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manas Mejari</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Manas Mejari</title>
+      <link>https://manasdm.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Computation of Parameter Dependent Robust Invariant Sets for LPV Models with Guaranteed Performance</title>
+      <link>https://manasdm.github.io/publication/preprint/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://manasdm.github.io/talk/travel/</link>
+      <pubDate>Mon, 28 Feb 2022 18:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/talk/travel/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Dates&lt;/th&gt;
+&lt;th&gt;Conference/Workshop&lt;/th&gt;
+&lt;th&gt;Place&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;June 19-20, 2021&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.lpvs2021.deib.polimi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4th IFAC Workshop on Linear Parameter-Varying Systems LPVS 2021&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Milan, Italy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;March 4-10, 2020&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cdc2020.ieeecss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;59th IEEE Conference on Decision and Control (CDC) 2020: Virtual&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Jeju Island, Korea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 11-17, 2020&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ifac2020.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st IFAC World Congress 2020: Virtual&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Berlin, Germany&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dec 11-13, 2019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://cdc2019.ieeecss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;58th IEEE Conference on Decision and Control (CDC) 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Nice, France&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov 04-06, 2019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://lpvs2019.tue.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3rd IFAC Workshop on Linear Parameter Varying Systems LPVS 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Eindhoven, Netherlands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;June 25-28, 2019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ecc19.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18th European Control Conference (ECC) 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Naples, Italy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 09-14, 2017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ifac2017.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20th IFAC World Congress 2017&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Toulouse, France&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb-July, 2017&lt;/td&gt;
+&lt;td&gt;Research stay at &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/control-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control System Group, Eindhoven University of Technology TU/e&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Eindhoven, Netherlands&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July, 2016&lt;/td&gt;
+&lt;td&gt;2016 European Control Conference&lt;/td&gt;
+&lt;td&gt;Aalborg, Denmark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;March 13-15, 2014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.iitk.ac.in/acods2014/Home_ACODS-2014.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advances in Control and Optimization of Dynamical Systems ACODS 2014&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IIT Kanpur, India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May 19-23, 2014&lt;/td&gt;
+&lt;td&gt;Workshop- Passivity based Control: New Vistas, VJTI in collaboration with European Embedded Control Institute (EECI) and HYCON2&lt;/td&gt;
+&lt;td&gt;Mumbai, India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;March 17-22, 2014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.sc.iitb.ac.in/~pdsc2014/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Workshop on Perspectives in Dynamical Systems &amp;amp; Control&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;VJTI &amp;amp; IIT Bombay, India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;July 04-06, 2013&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.advancesinrobotics.com/2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advances in Robotics (AIR-2013)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pune, India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;December 2012&lt;/td&gt;
+&lt;td&gt;Workshop: Winter School on Optimization and Control&lt;/td&gt;
+&lt;td&gt;IIT Bombay, India&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maximum—A-Posteriori Estimation of Linear Time-Invariant State-Space Models via Efficient Monte-Carlo Sampling</title>
+      <link>https://manasdm.github.io/publication/j6-asme22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j6-asme22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASCENDENT</title>
+      <link>https://manasdm.github.io/project/ascendent/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/ascendent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning dynamical systems from quantized observations: a Bayesian perspective</title>
+      <link>https://manasdm.github.io/publication/j5-tac21/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j5-tac21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An integral architecture for identification of continuous-time state-space LPV models</title>
+      <link>https://manasdm.github.io/publication/c11-lpvs21/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c11-lpvs21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning with transfer functions: new applications in system identification</title>
+      <link>https://manasdm.github.io/publication/c12-sysid21/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c12-sysid21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES</title>
+      <link>https://manasdm.github.io/project/ares/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/ares/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ARES: AI for fluoREscence Spectroscopy in oil&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Funded by: Hasler Foundation&lt;/li&gt;
+&lt;li&gt;PI: Dr. Dario Piga, SUPSI&lt;/li&gt;
+&lt;li&gt;Partners: Prof. Francesca Venturini, Dr. Silvan Fluri, Zurich University of Applied Sciences (ZHAW)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Goal: Development of artificial intelligence (AI) algorithms to estimate the oil quality from fluorescence spectrometry&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Role: Main responsible for technical developments of AI algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shrinkage Strategies for Structure Selection and Identification of Piecewise Affine Models</title>
+      <link>https://manasdm.github.io/publication/c10-cdc20/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c10-cdc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of hybrid and linear parameter‐varying models via piecewise affine regression using mixed integer programming</title>
+      <link>https://manasdm.github.io/publication/j3-ijrnc20/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j3-ijrnc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bias-Correction Approach for the Identification of Piecewise Affine Output-Error Models</title>
+      <link>https://manasdm.github.io/publication/c9-ifac20/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c9-ifac20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Bias-Correction Method for Identification of Piecewise Affine Output-Error Models</title>
+      <link>https://manasdm.github.io/publication/j4-lcss20/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j4-lcss20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent and computationally efficient estimation for stochastic LPV state-space models: realization based approach</title>
+      <link>https://manasdm.github.io/publication/c7-cdc19/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c7-cdc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization and identification algorithm for stochastic LPV state-space models with exogenous inputs</title>
+      <link>https://manasdm.github.io/publication/c6-lpvs19/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c6-lpvs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelized Identification of Linear Parameter-Varying Models with Linear Fractional Representation</title>
+      <link>https://manasdm.github.io/publication/c8-ecc19/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c8-ecc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM 4.0</title>
+      <link>https://manasdm.github.io/project/slam/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/slam/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Title: SLAM 4.0 Smart LAser Manufacturing for precision industry 4.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Innosuise project.&lt;/li&gt;
+&lt;li&gt;PI: Dr. Dario Piga, SUPSI&lt;/li&gt;
+&lt;li&gt;Industry Partners: CSEM, FEMTOprint&lt;/li&gt;
+&lt;li&gt;Academic Partners: Berner Fachhochschule BFH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Description: Development of artificial intelligence (AI) algorithms for process optimization in laser micro-machining and laser micro processing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Role: Main responsible for development and testing of AI algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://manasdm.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy Disaggregation using Piecewise Affine Regression and Binary Quadratic Programming</title>
+      <link>https://manasdm.github.io/publication/c5-cdc18/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c5-cdc18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized Moving-Horizon PWA Regression for LPV System Identification</title>
+      <link>https://manasdm.github.io/publication/c4-sysid18/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c4-sysid18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bias-correction method for closed-loop identification of Linear Parameter-Varying systems</title>
+      <link>https://manasdm.github.io/publication/j2-aut18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j2-aut18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPV Model Order Selection from Noise-corrupted Output and Scheduling Signal Measurements</title>
+      <link>https://manasdm.github.io/publication/c3-ifac17/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c3-ifac17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized moving-horizon piecewise affine regression using mixed-integer quadratic programming</title>
+      <link>https://manasdm.github.io/publication/c2-med17/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c2-med17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Lifetime of Fuel Cell in Hybrid Energy Management System by Lure–Lyapunov-Based Control Formulation</title>
+      <link>https://manasdm.github.io/publication/j1-tie17/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j1-tie17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized least square support vector machines for order and structure selection of LPV-ARX models</title>
+      <link>https://manasdm.github.io/publication/c1-ecc16/</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c1-ecc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://manasdm.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

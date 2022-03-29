@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Manas Mejari</title>
+    <link>https://manasdm.github.io/tag/ai/</link>
+      <atom:link href="https://manasdm.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>AI</title>
+      <link>https://manasdm.github.io/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>ARES</title>
+      <link>https://manasdm.github.io/project/ares/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/ares/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ARES: AI for fluoREscence Spectroscopy in oil&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Funded by: Hasler Foundation&lt;/li&gt;
+&lt;li&gt;PI: Dr. Dario Piga, SUPSI&lt;/li&gt;
+&lt;li&gt;Partners: Prof. Francesca Venturini, Dr. Silvan Fluri, Zurich University of Applied Sciences (ZHAW)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Goal: Development of artificial intelligence (AI) algorithms to estimate the oil quality from fluorescence spectrometry&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Role: Main responsible for technical developments of AI algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SLAM 4.0</title>
+      <link>https://manasdm.github.io/project/slam/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/slam/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Title: SLAM 4.0 Smart LAser Manufacturing for precision industry 4.0&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Innosuise project.&lt;/li&gt;
+&lt;li&gt;PI: Dr. Dario Piga, SUPSI&lt;/li&gt;
+&lt;li&gt;Industry Partners: CSEM, FEMTOprint&lt;/li&gt;
+&lt;li&gt;Academic Partners: Berner Fachhochschule BFH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Description: Development of artificial intelligence (AI) algorithms for process optimization in laser micro-machining and laser micro processing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Role: Main responsible for development and testing of AI algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

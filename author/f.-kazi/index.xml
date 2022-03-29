@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Kazi | Manas Mejari</title>
+    <link>https://manasdm.github.io/author/f.-kazi/</link>
+      <atom:link href="https://manasdm.github.io/author/f.-kazi/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Kazi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>F. Kazi</title>
+      <link>https://manasdm.github.io/author/f.-kazi/</link>
+    </image>
+    
+    <item>
+      <title>Improving Lifetime of Fuel Cell in Hybrid Energy Management System by Lure–Lyapunov-Based Control Formulation</title>
+      <link>https://manasdm.github.io/publication/j1-tie17/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j1-tie17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

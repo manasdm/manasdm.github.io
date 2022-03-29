@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Petreczky | Manas Mejari</title>
+    <link>https://manasdm.github.io/author/m.-petreczky/</link>
+      <atom:link href="https://manasdm.github.io/author/m.-petreczky/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Petreczky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>M. Petreczky</title>
+      <link>https://manasdm.github.io/author/m.-petreczky/</link>
+    </image>
+    
+    <item>
+      <title>Consistent and computationally efficient estimation for stochastic LPV state-space models: realization based approach</title>
+      <link>https://manasdm.github.io/publication/c7-cdc19/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c7-cdc19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization and identification algorithm for stochastic LPV state-space models with exogenous inputs</title>
+      <link>https://manasdm.github.io/publication/c6-lpvs19/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c6-lpvs19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Manas Mejari</title>
+    <link>https://manasdm.github.io/tag/deep-learning/</link>
+      <atom:link href="https://manasdm.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jul 2021 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://manasdm.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://manasdm.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning with transfer functions: new applications in system identification</title>
+      <link>https://manasdm.github.io/publication/c12-sysid21/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c12-sysid21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
