@@ -5,101 +5,12 @@
     <link>https://manasdm.github.io/author/manas-mejari/</link>
       <atom:link href="https://manasdm.github.io/author/manas-mejari/index.xml" rel="self" type="application/rss+xml" />
     <description>Manas Mejari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://manasdm.github.io/author/manas-mejari/avatar_hu86c4a60f0c22aa2adf624edc4f2e8552_1308690_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Manas Mejari</title>
       <link>https://manasdm.github.io/author/manas-mejari/</link>
     </image>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://manasdm.github.io/talk/travel/</link>
-      <pubDate>Mon, 28 Feb 2022 18:00:00 +0000</pubDate>
-      <guid>https://manasdm.github.io/talk/travel/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Dates&lt;/th&gt;
-&lt;th&gt;Conference/Workshop&lt;/th&gt;
-&lt;th&gt;Place&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;June 19-20, 2021&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.lpvs2021.deib.polimi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4th IFAC Workshop on Linear Parameter-Varying Systems LPVS 2021&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Milan, Italy&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;March 4-10, 2020&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cdc2020.ieeecss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;59th IEEE Conference on Decision and Control (CDC) 2020: Virtual&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Jeju Island, Korea&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;July 11-17, 2020&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.ifac2020.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st IFAC World Congress 2020: Virtual&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Berlin, Germany&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dec 11-13, 2019&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://cdc2019.ieeecss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;58th IEEE Conference on Decision and Control (CDC) 2019&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Nice, France&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nov 04-06, 2019&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lpvs2019.tue.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3rd IFAC Workshop on Linear Parameter Varying Systems LPVS 2019&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Eindhoven, Netherlands&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;June 25-28, 2019&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://ecc19.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18th European Control Conference (ECC) 2019&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Naples, Italy&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;July 09-14, 2017&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.ifac2017.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20th IFAC World Congress 2017&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Toulouse, France&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Feb-July, 2017&lt;/td&gt;
-&lt;td&gt;Research stay at &lt;a href=&#34;https://www.tue.nl/en/research/research-groups/control-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Control System Group, Eindhoven University of Technology TU/e&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Eindhoven, Netherlands&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;July, 2016&lt;/td&gt;
-&lt;td&gt;2016 European Control Conference&lt;/td&gt;
-&lt;td&gt;Aalborg, Denmark&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;March 13-15, 2014&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.iitk.ac.in/acods2014/Home_ACODS-2014.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advances in Control and Optimization of Dynamical Systems ACODS 2014&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;IIT Kanpur, India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;May 19-23, 2014&lt;/td&gt;
-&lt;td&gt;Workshop- Passivity based Control: New Vistas, VJTI in collaboration with European Embedded Control Institute (EECI) and HYCON2&lt;/td&gt;
-&lt;td&gt;Mumbai, India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;March 17-22, 2014&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.sc.iitb.ac.in/~pdsc2014/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Workshop on Perspectives in Dynamical Systems &amp;amp; Control&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;VJTI &amp;amp; IIT Bombay, India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;July 04-06, 2013&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.advancesinrobotics.com/2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advances in Robotics (AIR-2013)&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Pune, India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;December 2012&lt;/td&gt;
-&lt;td&gt;Workshop: Winter School on Optimization and Control&lt;/td&gt;
-&lt;td&gt;IIT Bombay, India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
