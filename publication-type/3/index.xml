@@ -5,7 +5,7 @@
     <link>https://manasdm.github.io/publication-type/3/</link>
       <atom:link href="https://manasdm.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Computation of Parameter Dependent Robust Invariant Sets for LPV Models with Guaranteed Performance</title>
+      <title>Learning neural state-space models: do we need a state estimator?</title>
       <link>https://manasdm.github.io/publication/preprint/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://manasdm.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of Parameter Dependent Robust Invariant Sets for LPV Models with Guaranteed Performance</title>
+      <link>https://manasdm.github.io/publication/preprint_tai22/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_tai22/</guid>
       <description></description>
     </item>
     
