@@ -5,12 +5,20 @@
     <link>https://manasdm.github.io/</link>
       <atom:link href="https://manasdm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Manas Mejari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>Manas Mejari</title>
       <link>https://manasdm.github.io/</link>
     </image>
+    
+    <item>
+      <title>Direct identification of continuous-time linear switched state-space models</title>
+      <link>https://manasdm.github.io/publication/preprint_ifac23/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_ifac23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning neural state-space models: do we need a state estimator?</title>
