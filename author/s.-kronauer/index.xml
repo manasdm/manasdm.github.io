@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | Manas Mejari</title>
-    <link>https://manasdm.github.io/tag/machine-learning/</link>
-      <atom:link href="https://manasdm.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>S. Kronauer | Manas Mejari</title>
+    <link>https://manasdm.github.io/author/s.-kronauer/</link>
+      <atom:link href="https://manasdm.github.io/author/s.-kronauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Kronauer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:01 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
-      <title>Machine Learning</title>
-      <link>https://manasdm.github.io/tag/machine-learning/</link>
+      <title>S. Kronauer</title>
+      <link>https://manasdm.github.io/author/s.-kronauer/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://manasdm.github.io/publication/c13-isem22/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:01 +0000</pubDate>
       <guid>https://manasdm.github.io/publication/c13-isem22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regularized least square support vector machines for order and structure selection of LPV-ARX models</title>
-      <link>https://manasdm.github.io/publication/c1-ecc16/</link>
-      <pubDate>Fri, 17 Jun 2016 00:00:01 +0000</pubDate>
-      <guid>https://manasdm.github.io/publication/c1-ecc16/</guid>
       <description></description>
     </item>
     

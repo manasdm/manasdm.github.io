@@ -5,12 +5,20 @@
     <link>https://manasdm.github.io/author/b.-mavkov/</link>
       <atom:link href="https://manasdm.github.io/author/b.-mavkov/index.xml" rel="self" type="application/rss+xml" />
     <description>B. Mavkov</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Sep 2022 00:00:01 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>B. Mavkov</title>
       <link>https://manasdm.github.io/author/b.-mavkov/</link>
     </image>
+    
+    <item>
+      <title>Data-driven statistical analysis for discharge position prediction on Wire EDM</title>
+      <link>https://manasdm.github.io/publication/c13-isem22/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:01 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/c13-isem22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Direct identification of continuous-time LPV state-space models via an integral architecture</title>
