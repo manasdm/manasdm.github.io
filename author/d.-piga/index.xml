@@ -5,12 +5,20 @@
     <link>https://manasdm.github.io/author/d.-piga/</link>
       <atom:link href="https://manasdm.github.io/author/d.-piga/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Piga</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>D. Piga</title>
       <link>https://manasdm.github.io/author/d.-piga/</link>
     </image>
+    
+    <item>
+      <title>Variational autoencoder for the identification of   piecewise  models</title>
+      <link>https://manasdm.github.io/publication/preprint_vae22/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_vae22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Direct identification of continuous-time linear switched state-space models</title>
