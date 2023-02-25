@@ -5,7 +5,7 @@
     <link>https://manasdm.github.io/talk/</link>
       <atom:link href="https://manasdm.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Apr 2022 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 18:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Talks</title>
       <link>https://manasdm.github.io/talk/travel/</link>
-      <pubDate>Sat, 23 Apr 2022 18:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 18:00:00 +0000</pubDate>
       <guid>https://manasdm.github.io/talk/travel/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
@@ -26,6 +26,11 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov 17-18, 2022&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://virtuoush2020.com/events/second-tok/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIRTUOUS Workshop: Machine learning meets molecular dynamics for taste prediction&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lugano, Switzerland&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;June 19-20, 2021&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.lpvs2021.deib.polimi.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4th IFAC Workshop on Linear Parameter-Varying Systems LPVS 2021&lt;/a&gt;&lt;/td&gt;
