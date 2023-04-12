@@ -5,12 +5,20 @@
     <link>https://manasdm.github.io/author/a.-gupta/</link>
       <atom:link href="https://manasdm.github.io/author/a.-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Gupta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>A. Gupta</title>
       <link>https://manasdm.github.io/author/a.-gupta/</link>
     </image>
+    
+    <item>
+      <title>Direct Data-Driven Computation of Polytopic Robust Control Invariant Sets and State-Feedback Controllers</title>
+      <link>https://manasdm.github.io/publication/preprint_cdc23/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_cdc23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computation of Parameter Dependent Robust Invariant Sets for LPV Models with Guaranteed Performance</title>
