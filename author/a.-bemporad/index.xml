@@ -5,12 +5,28 @@
     <link>https://manasdm.github.io/author/a.-bemporad/</link>
       <atom:link href="https://manasdm.github.io/author/a.-bemporad/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Bemporad</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>A. Bemporad</title>
       <link>https://manasdm.github.io/author/a.-bemporad/</link>
     </image>
+    
+    <item>
+      <title>Data-Driven Synthesis of Configuration-Constrained Robust Invariant Sets for Linear Parameter-Varying Systems</title>
+      <link>https://manasdm.github.io/publication/preprint_tac23/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_tac23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Dependent Robust Control Invariant Sets for LPV Systems with Bounded Parameter Variation Rate</title>
+      <link>https://manasdm.github.io/publication/preprint_lcss23/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_lcss23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of hybrid and linear parameter‐varying models via piecewise affine regression using mixed integer programming</title>
