@@ -13,34 +13,10 @@
     </image>
     
     <item>
-      <title>Data-Driven Synthesis of Configuration-Constrained Robust Invariant Sets for Linear Parameter-Varying Systems</title>
+      <title>Parameter dependent robust control invariant sets for LPV systems with bounded parameter variation rate</title>
       <link>https://manasdm.github.io/publication/preprint_tac23/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://manasdm.github.io/publication/preprint_tac23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parameter Dependent Robust Control Invariant Sets for LPV Systems with Bounded Parameter Variation Rate</title>
-      <link>https://manasdm.github.io/publication/preprint_lcss23/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://manasdm.github.io/publication/preprint_lcss23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Driven Computation of Robust Invariant Sets and Gain-Scheduled Controllers for Linear Parameter-Varying Systems</title>
-      <link>https://manasdm.github.io/publication/preprint_lcss23b/</link>
-      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://manasdm.github.io/publication/preprint_lcss23b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Direct Data-Driven Computation of Polytopic Robust Control Invariant Sets and State-Feedback Controllers</title>
-      <link>https://manasdm.github.io/publication/preprint_cdc23/</link>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://manasdm.github.io/publication/preprint_cdc23/</guid>
       <description></description>
     </item>
     
