@@ -5,12 +5,20 @@
     <link>https://manasdm.github.io/author/v.-breschi/</link>
       <atom:link href="https://manasdm.github.io/author/v.-breschi/index.xml" rel="self" type="application/rss+xml" />
     <description>V. Breschi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:01 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>V. Breschi</title>
       <link>https://manasdm.github.io/author/v.-breschi/</link>
     </image>
+    
+    <item>
+      <title>Direct Data-Driven Design of LPV Controllers and Polytopic Invariant Sets with Cross-Covariance Noise Bounds</title>
+      <link>https://manasdm.github.io/publication/preprint_lcss24/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/preprint_lcss24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Shrinkage Strategies for Structure Selection and Identification of Piecewise Affine Models</title>
