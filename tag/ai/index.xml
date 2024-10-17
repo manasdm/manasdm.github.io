@@ -70,6 +70,7 @@
 &lt;/ul&gt;
 &lt;p&gt;I am grateful to the &lt;a href=&#34;https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasler Foundation&lt;/a&gt; for  funding my project &amp;ldquo;INHALE: Interpretable Neural networks for Hybrid dynamicAL systEms&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;INHALE will constitute my first project as a Principal Investigator. Many thanks to my research group at &lt;a href=&#34;https://www.idsia.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDSIA&lt;/a&gt; for their support.&lt;/p&gt;
+&lt;p&gt;The project aims at developing novel  neural network (NN) architectures and algorithms, specifically tailored for learning hybrid dynamical systems. The primary objective is focused towards developing an explainable AI framework wherein the latent space of a specialized NN architecture can be interpretable. The proposed method is targeted specifically at data-driven modeling of hybrid and cyber-physical systems, which have found manifold of applications in several domains over the past few years.&lt;/p&gt;
 </description>
     </item>
     

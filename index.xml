@@ -5,7 +5,7 @@
     <link>https://manasdm.github.io/</link>
       <atom:link href="https://manasdm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Manas Mejari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manasdm.github.io/media/icon_hu008a38a6cb51595ad410366351051422_11138_512x512_fill_lanczos_center_3.png</url>
       <title>Manas Mejari</title>
@@ -13,11 +13,32 @@
     </image>
     
     <item>
+      <title>Parameter dependent robust control invariant sets for LPV systems with bounded parameter variation rate</title>
+      <link>https://manasdm.github.io/publication/j12-tac24/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/publication/j12-tac24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Direct Data-Driven Design of LPV Controllers and Polytopic Invariant Sets with Cross-Covariance Noise Bounds</title>
       <link>https://manasdm.github.io/publication/preprint_lcss24/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://manasdm.github.io/publication/preprint_lcss24/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DISCO</title>
+      <link>https://manasdm.github.io/project/disco/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://manasdm.github.io/project/disco/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;DISCO: Data-driven Design of invariant Sets and COntrollers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am grateful to the &lt;a href=&#34;https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasler Foundation&lt;/a&gt; for  funding my project &amp;ldquo;DISCO: Data-driven Design of invariant Sets and COntrollers&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The project aims to develop novel data-driven algorithms to ensure safety in constrained dynamical systems&amp;rsquo; operation. The primary objective is to create a data-driven framework for robust control design and invariant set computation. Moreover, the project seeks to pioneer efficient and user-friendly direct data-based algorithms, eliminating the need for cumbersome model identification steps. These methods will be tailored to ensure the safety and stability of nonlinear dynamical systems, thereby facilitating the evaluation of data-based solutions in various real-world safety-critical applications.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,14 +90,6 @@
     </item>
     
     <item>
-      <title>Parameter dependent robust control invariant sets for LPV systems with bounded parameter variation rate</title>
-      <link>https://manasdm.github.io/publication/preprint_tac23/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://manasdm.github.io/publication/preprint_tac23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computation of Parameter Dependent Robust Invariant Sets for LPV Models with Guaranteed Performance</title>
       <link>https://manasdm.github.io/publication/j8-aut23/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
@@ -98,6 +111,11 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;July 10-12, 2024&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://acc2024.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference (ACC) 2024&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Toronto, Canada&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Dec 13-15, 2023&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://cdc2023.ieeecss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;62nd IEEE Conference on Decision and Control (CDC) 2023&lt;/a&gt;&lt;/td&gt;
@@ -222,6 +240,7 @@
 &lt;/ul&gt;
 &lt;p&gt;I am grateful to the &lt;a href=&#34;https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hasler Foundation&lt;/a&gt; for  funding my project &amp;ldquo;INHALE: Interpretable Neural networks for Hybrid dynamicAL systEms&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;INHALE will constitute my first project as a Principal Investigator. Many thanks to my research group at &lt;a href=&#34;https://www.idsia.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDSIA&lt;/a&gt; for their support.&lt;/p&gt;
+&lt;p&gt;The project aims at developing novel  neural network (NN) architectures and algorithms, specifically tailored for learning hybrid dynamical systems. The primary objective is focused towards developing an explainable AI framework wherein the latent space of a specialized NN architecture can be interpretable. The proposed method is targeted specifically at data-driven modeling of hybrid and cyber-physical systems, which have found manifold of applications in several domains over the past few years.&lt;/p&gt;
 </description>
     </item>
     
